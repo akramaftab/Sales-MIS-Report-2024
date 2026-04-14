@@ -79,8 +79,12 @@ Structured the workbook for weekly refresh — new raw data flows into the data 
 
 ## Dashboard Preview
 
-> *(Screenshot of Dashboard sheet — add `Dashboard_Screenshot.png` here)*
-
+*(<img width="830" height="536" alt="image" src="https://github.com/user-attachments/assets/683b05bb-0528-4e30-8d46-732bfe483e7c" />
+)*
+*(<img width="706" height="319" alt="image" src="https://github.com/user-attachments/assets/f68f9267-7226-4561-85a7-37a0ec24344f" />
+)*
+ *(<img width="587" height="441" alt="image" src="https://github.com/user-attachments/assets/f4aedba8-67c9-418a-89fc-d87d10436f06" />
+)*
 ```
 📊 SALES MIS DASHBOARD — Q1 2024
 ─────────────────────────────────────────────────────
