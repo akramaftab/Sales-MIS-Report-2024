@@ -103,7 +103,7 @@ West      ₹68,367    ₹73,415     107.38% 🟢
 ## Related Projects
 
 - [Hotel Booking Cancellations Analysis](https://github.com/akramaftab/Python_Power_BI_-Hotel_analysis_project) — Python + Power BI | 119K bookings | Cancellation risk modeling
-- [Pizza Sales Dashboard](#) — SQL + Power BI | Revenue & order trend analysis
+- [Pizza Sales Dashboard](https://github.com/akramaftab/SQL-POWER.BI.Pizzas.Sales.Project) — SQL + Power BI | Revenue & order trend analysis
 - [Employee Attendance Tracker](#) — Excel + openpyxl automation
 
 ---
